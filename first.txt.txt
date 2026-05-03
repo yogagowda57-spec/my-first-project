@@ -1,1 +1,2 @@
 hello bro , this is my first day if learning git and GitHub.
+from scartch using chatgpt
